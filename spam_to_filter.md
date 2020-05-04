@@ -1,15 +1,14 @@
 # Spam email subjects:
 
-ninja
-concerning
-videos
-visitors
-""
-guest
-"great article"
-video
-"leaky bucket"
-newsletters
+- ninja
+- concerning
+- videos
+- visitors
+- guest
+- "great article"
+- video
+- "leaky bucket"
+- newsletters
 "boost your site"
 "i was visiting"
 100x
