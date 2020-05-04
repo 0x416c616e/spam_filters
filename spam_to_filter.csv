@@ -308,7 +308,7 @@
 "spam307", "(?i)(reply\ yes)"
 "spam308", "(?i)(freelancer)"
 "spam309", "(?i)(i\ am\ a\ virtual\ assistant)"
-"spam310", "(?i)(reply\ "yes")"
+"spam310", "(?i)(reply\ \"yes\")"
 "spam311", "(?i)(ppc\ advertising)"
 "spam312", "(?i)(are\ you\ still\ serving\ customers\ right\ now)"
 "spam313", "(?i)(click\ here)"
