@@ -9,8 +9,8 @@
 - video
 - "leaky bucket"
 - newsletters
-"boost your site"
-"i was visiting"
+- "boost your site"
+- "i was visiting"
 - 100x
 - conversions
 - "don't miss this"
