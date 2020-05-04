@@ -347,24 +347,21 @@
 - bit.ly
 - .ly
 - repayment
-
-"best-selling"
-.tech
-.pw
-leads
-traffic
-outrank
-competition
-"back pain"
-"costing you money"
-income
-paypal
-100x
-leads
-"test drive"
-
-"see how this works"
-"do follow"
-'please reply "yes"'
-'just reply "yes"
-
+- "best-selling"
+- .tech
+- .pw
+- leads
+- traffic
+- outrank
+- competition
+- "back pain"
+- "costing you money"
+- income
+- paypal
+- 100x
+- leads
+- "test drive"
+- "see how this works"
+- "do follow"
+- 'please reply "yes"'
+- 'just reply "yes"
