@@ -1,103 +1,110 @@
+# Spam filters
+
+These are some strings to search for. There are two categories in this list: subjects and bodies. This is for emails that contain the text. That doesn't mean they have to be exact. For example, the "ninja" entry could be "SEO ninja". A partial match is all it needs. 
+
+Exclude the quotes. The quotes are just there because they're strings. 
+
 # Spam email subjects (contains):
 
-- ninja
-- concerning
-- videos
-- visitors
-- guest
+- "ninja"
+- "concerning"
+- "videos"
+- "visitors"
+- "guest"
 - "great article"
-- video
+- "video"
 - "leaky bucket"
-- newsletters
+- "newsletters"
 - "boost your site"
 - "i was visiting"
-- 100x
-- conversions
+- "100x"
+- "conversions"
 - "don't miss this"
-- offer
-- offers
+- "offer"
+- "offers"
 - "so good, you won't believe it"
 - "organize for you"
-- traffic
-- organic
-- free
+- "traffic"
+- "organic"
+- "free"
 - "important information"
 - "are you offering"
 - "very important news"
 - "window of opportunity"
-- advertising
-- advertisers
-- ad
-- ads
-- bots
-- bot
-- buy
-- roi
-- urgent
-- inquiry
-- rank
-- hack
-- google
-- sales
-- sale
-- double
+- "advertising"
+- "advertisers"
+- "ad"
+- "ads"
+- "bots"
+- "bot"
+- "buy"
+- "roi"
+- "urgent"
+- "inquiry"
+- "rank"
+- "hack"
+- "google"
+- "sales"
+- "sale"
+- "double"
 - "web design & development"
-- loan
-- loans
+- "loan"
+- "loans"
 - "new business"
-- weapon
-- weapons
-- funding
-- fund
-- funds
-- belly
-- weight
-- promote
-- promoting
-- promotes
-- cost
-- collateral
-- drink
-- retention
-- views
-- youtube
-- likes
+- "weapon"
+- "weapons"
+- "funding"
+- "fund"
+- "funds"
+- "belly"
+- "weight"
+- "promote"
+- "promoting"
+- "promotes"
+- "cost"
+- "collateral"
+- "drink"
+- "retention"
+- "views"
+- "youtube"
+- "likes"
 - "have you checked this yet"
 - "electronic engineering and manufacturing"
 - "very important news"
 - "solid news programme"
-- cheap
-- interesting article
+- "cheap"
+- "interesting article"
 - "you deserve more clients"
-- bitcoin
+- "bitcoin"
 - "please, pay attantion"
-- 100k/mo
-- secret
+- "100k/mo"
+- "secret"
 - "delivery of your email messages"
-- niceoffers
+- "niceoffers"
 - "are you in"
 - "nice offers"
-- offers
-- offer
-- present
-- gift
+- "offers"
+- "offer"
+- "present"
+- "gift"
 - "look what we arrange"
 - "generate more revenue"
 - "regarding reviews"
 - "get paid to"
 - "watch movies"
-- seo
-- wrinkles
-- face
-- alexa
-- webinars
+- "seo "
+- " seo"
+- "wrinkles"
+- "face"
+- "alexa"
+- "webinars"
 - "make sales"
 - "a quick trip to a tomorrow of your dreams"
 - "test mailing"
-- cash
-- prize
-- victory
-- quantum
+- "cash"
+- "prize"
+- "victory"
+- "quantum"
 - "brand new"
 - "uncover phone number information"
 - "need to ask"
@@ -106,37 +113,37 @@
 - "video maker"
 - "could you been be holding the future"
 - "delivery of your email messages"
-- marketing
-- famous
-- instagram
-- affiliate
-- notice
-- 2x
-- results
+- "marketing"
+- "famous"
+- "instagram"
+- "affiliate"
+- "notice"
+- "2x"
+- "results"
 - "free test mailing"
 - "mailing via the feedback form"
-- payday
-- affiliates
+- "payday"
+- "affiliates"
 - "link exchange"
 - "boost visibility"
 - "just got easy"
-- crypto
-- commerce
+- "crypto"
+- "commerce"
 - "i would like to purchase from you"
-- coin
-- cryptocurrency
-- cryptocurrencies
-- engagement
+- "coin"
+- "cryptocurrency"
+- "cryptocurrencies"
+- "engagement"
 - "big fan of your website"
 - "i have great news for you"
-- account
+- "account"
 - "generate more revenue"
 - "it's all about perfect timing"
-- reimbursement
+- "reimbursement"
 - "representing you"
 - "how you can do better"
-- contact
-- usd
+- "contact"
+- "usd"
 - "google top ranking"
 - "increase domain authority"
 - "start seeing results"
@@ -146,35 +153,35 @@
 - "software deal"
 - "unique, animated personalities"
 - "broken links update"
-- transfers
-- international
-- currency
+- "transfers"
+- "international"
+- "currency"
 - "single payment"
 - "save money on"
 - "got fired then built a"
-- maxdrive
+- "maxdrive"
 - "host and manage unlimited files"
 - "do-follow"
 - "backlink from amazon"
 - "of web hosting for one time payment"
-- keto
-- diet
+- "keto"
+- "diet"
 - "just one word"
 - "monthly fees"
 - "are you tired of"
-- paying
-- pays
-- pay
-- paid
+- "paying"
+- "pays"
+- "pay"
+- "paid"
 - "targeted search"
 - "guest post"
 - "question for you"
-- exposed
-- dropout
+- "exposed"
+- "dropout"
 - "month from home"
 - "work from home"
 - "working from home"
-- $
+- "$"
 - "low cost"
 - "free training"
 - "reveals everything"
@@ -182,22 +189,22 @@
 - "i would like to place an order"
 - "why are you letting"
 - "what if you could give your content legs"
-- paypal
+- "paypal"
 - "do follow"
 - "boost your site's"
 - "google ranking"
 - "automated wordpress plugin"
 - "it's all about perfect timing"
 - "re: website"
-- dropshipping
-- income
+- "dropshipping"
+- "income"
 - "how to increase site traffic"
 - "it might be too late"
 - "are you looking for website traffic"
 - "get a link on my site"
 - "contains everything you need"
 - "you're missing out on customers"
-- #website#
+- "#website#"
 - "lightning fast"
 - "web hosting"
 - "for less than"
@@ -208,22 +215,22 @@
 - "reliable hosting"
 - "the new digital marketing"
 - "your 100 off"
-- discount
+- "discount"
 - "ends tonight"
-- millionaires
-- millionaire
-- million
-- millions
+- "millionaires"
+- "millionaire"
+- "million"
+- "millions"
 - "reveal how they made it"
 - "the time has come"
-- consultation
-- consulting
-- consult
+- "consultation"
+- "consulting"
+- "consult"
 - "we send your messages"
 - "pause. pause. pause"
 - "make your own mobile app"
 - "for your website"
-- googlemail.com
+- "googlemail.com"
 - "job postings"
 - "attention site owners"
 - "write quality articles"
@@ -243,9 +250,9 @@
 - "this new app"
 - "does your hosting company"
 - "best offer"
-- ihre
-- adidas
-- yeezy
+- "ihre"
+- "adidas"
+- "yeezy"
 - "save a massive"
 - "it's all about perfect timing"
 - "convert website visitors"
@@ -254,10 +261,10 @@
 - "question about hiring"
 - "the complete all-in-one"
 - "seo tool"
-- localleadsavalanche
+- "localleadsavalanche"
 - "local leads"
 - "more conversions"
-- @hotmail.com
+- "@hotmail.com"
 - "must have app"
 - "and it's this easy"
 - "sending newsletters"
@@ -267,7 +274,7 @@
 - "bad hosting"
 - "killing your"
 - "have you seen this yet"
-- animations
+- "animations"
 - "your quotation request"
 - "create cash pulling"
 - "instagram likes"
@@ -283,12 +290,12 @@
 - "we offer sending"
 - "how to get $"
 - "more leads"
-- forex
+- "forex"
 - "don't miss out on this opportunity"
 - "wp themes & plugins"
-- backlink
+- "backlink"
 - "question about partnership"
-- @yahoo.com
+- "@yahoo.com"
 - "website manager"
 - ".com notice"
 - "i want to pay you to post an article on your site"
@@ -299,69 +306,69 @@
 - "there they go"
 - "contact configurations"
 - "google local"
-- stomach
+- "stomach"
 - "build stunning websites"
-- sex
-- dating
-- date
-- adult
+- "sex"
+- "dating"
+- "date"
+- "adult"
 
 # Spam email body text (contains):
-- million
-- usd
+- "million"
+- "usd"
 - "reply yes"
-- freelancer
+- "freelancer"
 - "i am a virtual assistant"
-- 'reply "yes"'
+- "reply \"yes\""
 - "ppc advertising"
 - "are you still serving customers right now"
 - "click here"
-- marketing
+- "marketing"
 - "we have available the following"
 - "minimum order requirements"
-- robot
+- "robot"
 - "quick review of your website"
 - "more customers"
 - "are you interested in selling your domain"
 - "we could hop on a quick call to discuss"
 - "athletic wear"
-- apparel
+- "apparel"
 - "I'd be more than happy to go over everything with you"
 - "50,000"
-- messages
+- "messages"
 - "free test"
 - "expires soon"
 - "influencer relations"
-- .photos
-- voucher
-- .xyz
-- .space
-- .live
+- ".photos"
+- "voucher"
+- ".xyz"
+- ".space"
+- ".live"
 - "post content on your site"
-- seo
+- "seo"
 - "you showed up at the top of the search results"
 - "urge you to visit"
-- .website
-- .site
-- .online
-- bit.ly
-- .ly
-- repayment
+- ".website"
+- ".site"
+- ".online"
+- "bit.ly"
+- ".ly"
+- "repayment"
 - "best-selling"
-- .tech
-- .pw
-- leads
-- traffic
-- outrank
-- competition
+- ".tech"
+- ".pw"
+- "leads"
+- "traffic"
+- "outrank"
+- "competition"
 - "back pain"
 - "costing you money"
-- income
-- paypal
-- 100x
-- leads
+- "income"
+- "paypal"
+- "100x"
+- "leads"
 - "test drive"
 - "see how this works"
 - "do follow"
-- 'please reply "yes"'
-- 'just reply "yes"
+- "please reply \"yes\""
+- "just reply \"yes\""
