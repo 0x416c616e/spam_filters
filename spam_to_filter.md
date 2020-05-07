@@ -2,7 +2,7 @@
 
 These are some strings to search for. There are two categories in this list: subjects and bodies. This is for emails that contain the text. That doesn't mean they have to be exact. For example, the "ninja" entry could be "SEO ninja". A partial match is all it needs. 
 
-Exclude the quotes. The quotes are just there because they're strings. 
+Exclude the quotes. The quotes are just there because they're strings. Please note that these filters are not case-sensitive.
 
 # Spam email subjects (contains):
 
